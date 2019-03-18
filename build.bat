@@ -1,0 +1,1 @@
+g++ -o sort.exe sort.cpp algs.cpp
