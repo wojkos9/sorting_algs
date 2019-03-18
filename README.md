@@ -4,6 +4,7 @@ Usage: sort [sorting methods] [filling method] min:[max]:[step] [other options
 
 Sorting methods:
 -i      Insertion Sort
+
 -s      Selection Sort
 -b      Bubble Sort
 -h      Heap Sort
