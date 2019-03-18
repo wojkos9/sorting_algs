@@ -24,7 +24,7 @@ Array filling methods: \
 -V      decreasing and then increasing \
 -X      increasing and then decreasing \
 
-Other options:
+Other options: \
  --help     display help \
      -n     no file output \
      -v     verbose \
