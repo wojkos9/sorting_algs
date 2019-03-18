@@ -1,12 +1,12 @@
 # sorting_algs
 
-Usage: sort [sorting methods] [filling method] min:[max]:[step] [other options
+Usage: sort [sorting methods] [filling method] min:[max]:[step] [other options]
 
 Sorting methods:
--i      Insertion Sort
--s      Selection Sort
--b      Bubble Sort
--h      Heap Sort
+-i      Insertion Sort \
+-s      Selection Sort \
+-b      Bubble Sort \
+-h      Heap Sort \
 -q      Quick Sort
 -a      Quick Sort Analysis
 -Q      Quick Sort 2
