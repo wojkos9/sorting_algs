@@ -14,7 +14,7 @@ Sorting methods:
 -S      Shell Sort \
 -2      Shell Sort 2 \
 -3      Shell Sort 3 \
--m      Merge Sort \
+-m      Merge Sort
 
 Array filling methods: \
 -I      increasing \
